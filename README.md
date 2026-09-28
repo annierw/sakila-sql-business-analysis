@@ -42,7 +42,7 @@ Movie demand: 49 films fall in the top 10% of rentals, but not in the top 10% of
 
 Store metrics: Store 1 is performing better across all metrics- it has more customers and rentals, and a higher revenue per store, per rental, and per customer. However, the discrepancy isn't huge; Store 1 accounts for 55% of total revenue and Store 2 accounts for 45%. Given how small the chasm between them is, Store 2 could benefit from slightly more support re: staff, inventory, etc., but is not in need of a serious intervention. 
 
-Advanced analysis: There are four customers who qualify as high-value (75th percentile or above in total spend) but have low-frequency (lower than average) rental rates. The store should push email marketing especially towards these customers and similar customers to entice them to become more frequent renters.
+Advanced analysis: There are four customers who qualify as high-value (75th percentile or above in total spend) but have low-frequency (lower than average) rental rates. The store should push email marketing especially towards these and similar customers to entice them to become more frequent renters.
 
 ## Tools
 
